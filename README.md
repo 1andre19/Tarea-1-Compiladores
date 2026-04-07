@@ -1,5 +1,7 @@
 # Tarea 1 Compiladores
 
+
+Link a github: https://github.com/1andre19/Tarea-1-Compiladores/edit/main/README.md
 En este programa se implementaron 3 estructuras (stack, queue, hash map) desde 0 usando el lenguaje de programación Go.
 Para correr el programa se necesita tener instalado Go y correr el siguiente comando en el root del proyecto
 ```
